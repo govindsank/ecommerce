@@ -5,7 +5,9 @@
 }
 .boximage{
     height: 50vh;
+    padding: 5px;
     margin-top: 4px;
+
     
 
 }
@@ -18,4 +20,11 @@
 }
 .intro{
     padding-top: 1px;
+}
+.body{
+    position: static;
+    top: 0;
+}
+.footer{
+    position: sticky;
 }

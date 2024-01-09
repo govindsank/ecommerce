@@ -1,7 +1,7 @@
 import "./mobile.css"
 
 function Mobile(){
-    return (
+    return (<div className="body">
   <div className="container intro">
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
           <div class="carousel-indicators">
@@ -68,10 +68,11 @@ function Mobile(){
    <div className="row"> <center><h3>Rs.31,500</h3></center></div>
   </div>
 </div>
-<footer className="footer"><center>Thank You</center></footer>
+{/* <footer className="footer"><center>Thank You</center></footer> */}
 
 
   
+</div>
 </div>
 </div>
     );
