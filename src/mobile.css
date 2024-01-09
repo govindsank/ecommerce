@@ -1,0 +1,21 @@
+.box{
+    border: 2px solid black;
+    height: 10vh;
+    
+}
+.boximage{
+    height: 50vh;
+    margin-top: 4px;
+    
+
+}
+.samsung{
+    width: 90vw;
+    height: 36vh;
+}
+.footer{
+    background-color: gray;
+}
+.intro{
+    padding-top: 1px;
+}
